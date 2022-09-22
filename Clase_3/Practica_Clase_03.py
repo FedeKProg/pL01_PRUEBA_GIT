@@ -1,4 +1,4 @@
-from data_stark import lista_personajes
+from Clase_4.data_stark import lista_personajes
 
 '''
 for heroe in lista_personajes:
